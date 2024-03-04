@@ -30,3 +30,4 @@ fun sukaHobby(Suka: Boolean) {
     }
     println("\"$message\"")
 }
+
