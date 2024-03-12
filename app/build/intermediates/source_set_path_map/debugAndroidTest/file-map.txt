@@ -1,0 +1,35 @@
+com.fadhil.mobile_kotlin.test.app-core-1.5.0-0 C:\Users\User\.gradle\caches\transforms-3\078c36c9b768603abba08f7539a69645\transformed\core-1.5.0\res
+com.fadhil.mobile_kotlin.test.app-lifecycle-runtime-ktx-2.7.0-1 C:\Users\User\.gradle\caches\transforms-3\1d60fb34532b5e26bed3914db094655e\transformed\lifecycle-runtime-ktx-2.7.0\res
+com.fadhil.mobile_kotlin.test.app-ui-graphics-release-2 C:\Users\User\.gradle\caches\transforms-3\20c25991eaabd9c5dcf917156f1d04ca\transformed\ui-graphics-release\res
+com.fadhil.mobile_kotlin.test.app-lifecycle-viewmodel-savedstate-2.7.0-3 C:\Users\User\.gradle\caches\transforms-3\2ce6bc6b8e76a295e7316c0affcde276\transformed\lifecycle-viewmodel-savedstate-2.7.0\res
+com.fadhil.mobile_kotlin.test.app-ui-test-release-4 C:\Users\User\.gradle\caches\transforms-3\34a082f938ed5a4d8660cfa3704deedf\transformed\ui-test-release\res
+com.fadhil.mobile_kotlin.test.app-profileinstaller-1.3.0-5 C:\Users\User\.gradle\caches\transforms-3\3bc757ce3aec24ef31bef725568aa664\transformed\profileinstaller-1.3.0\res
+com.fadhil.mobile_kotlin.test.app-runtime-release-6 C:\Users\User\.gradle\caches\transforms-3\51348548459eb5b47b7cc286aa106ebd\transformed\runtime-release\res
+com.fadhil.mobile_kotlin.test.app-ui-release-7 C:\Users\User\.gradle\caches\transforms-3\56991579657abc1bbffec6207af617d3\transformed\ui-release\res
+com.fadhil.mobile_kotlin.test.app-ui-text-release-8 C:\Users\User\.gradle\caches\transforms-3\59acc97af40e6507ae699cfd369db5ad\transformed\ui-text-release\res
+com.fadhil.mobile_kotlin.test.app-customview-poolingcontainer-1.0.0-9 C:\Users\User\.gradle\caches\transforms-3\62e1a35fa918cf9a35c58a854709be3e\transformed\customview-poolingcontainer-1.0.0\res
+com.fadhil.mobile_kotlin.test.app-ui-unit-release-10 C:\Users\User\.gradle\caches\transforms-3\69ebf296c1a9c69f2328a9112f438409\transformed\ui-unit-release\res
+com.fadhil.mobile_kotlin.test.app-lifecycle-process-2.7.0-11 C:\Users\User\.gradle\caches\transforms-3\7089319365557457474e240d4b0f84d2\transformed\lifecycle-process-2.7.0\res
+com.fadhil.mobile_kotlin.test.app-ui-test-junit4-release-12 C:\Users\User\.gradle\caches\transforms-3\731b8d903b0b10972d01be82acef7b85\transformed\ui-test-junit4-release\res
+com.fadhil.mobile_kotlin.test.app-core-ktx-1.12.0-13 C:\Users\User\.gradle\caches\transforms-3\78b9abad4ee1fbf93aa0a0f46e0a415b\transformed\core-ktx-1.12.0\res
+com.fadhil.mobile_kotlin.test.app-activity-ktx-1.8.2-14 C:\Users\User\.gradle\caches\transforms-3\7c52d18556930028cee76049eb722807\transformed\activity-ktx-1.8.2\res
+com.fadhil.mobile_kotlin.test.app-core-1.12.0-15 C:\Users\User\.gradle\caches\transforms-3\7e0de00efec8260dc761d11f7167e95b\transformed\core-1.12.0\res
+com.fadhil.mobile_kotlin.test.app-savedstate-1.2.1-16 C:\Users\User\.gradle\caches\transforms-3\7f2b4209cad712d371a8b71cdd47bd70\transformed\savedstate-1.2.1\res
+com.fadhil.mobile_kotlin.test.app-runtime-saveable-release-17 C:\Users\User\.gradle\caches\transforms-3\8294ef1489a1e25b454222baf6ef8bc8\transformed\runtime-saveable-release\res
+com.fadhil.mobile_kotlin.test.app-ui-util-release-18 C:\Users\User\.gradle\caches\transforms-3\8aa972e38afc6d53983d78947e187672\transformed\ui-util-release\res
+com.fadhil.mobile_kotlin.test.app-lifecycle-viewmodel-2.7.0-19 C:\Users\User\.gradle\caches\transforms-3\9075178d68103b2b8b3fc44dfd166442\transformed\lifecycle-viewmodel-2.7.0\res
+com.fadhil.mobile_kotlin.test.app-lifecycle-runtime-2.7.0-20 C:\Users\User\.gradle\caches\transforms-3\971814428029b200e3365e073e1a85ca\transformed\lifecycle-runtime-2.7.0\res
+com.fadhil.mobile_kotlin.test.app-startup-runtime-1.1.1-21 C:\Users\User\.gradle\caches\transforms-3\9b2462989288c0c6dcf550129064e13a\transformed\startup-runtime-1.1.1\res
+com.fadhil.mobile_kotlin.test.app-lifecycle-livedata-core-2.7.0-22 C:\Users\User\.gradle\caches\transforms-3\a00bb4a93e3c20038975c278989b177c\transformed\lifecycle-livedata-core-2.7.0\res
+com.fadhil.mobile_kotlin.test.app-lifecycle-viewmodel-ktx-2.7.0-23 C:\Users\User\.gradle\caches\transforms-3\a8ff7257501685d47fed3d0f9d6e9e9d\transformed\lifecycle-viewmodel-ktx-2.7.0\res
+com.fadhil.mobile_kotlin.test.app-annotation-experimental-1.3.0-24 C:\Users\User\.gradle\caches\transforms-3\ae403702ac7c7fcd2e2234132ed273a8\transformed\annotation-experimental-1.3.0\res
+com.fadhil.mobile_kotlin.test.app-core-runtime-2.2.0-25 C:\Users\User\.gradle\caches\transforms-3\c205773ef54f3c13dd08b842bb55bad1\transformed\core-runtime-2.2.0\res
+com.fadhil.mobile_kotlin.test.app-ui-geometry-release-26 C:\Users\User\.gradle\caches\transforms-3\c6b14729be1b55ce391c8b81d62fa478\transformed\ui-geometry-release\res
+com.fadhil.mobile_kotlin.test.app-activity-1.8.2-27 C:\Users\User\.gradle\caches\transforms-3\c8182d16d4687a5d99f0eaa3a9833899\transformed\activity-1.8.2\res
+com.fadhil.mobile_kotlin.test.app-emoji2-1.4.0-28 C:\Users\User\.gradle\caches\transforms-3\d85e7c3f697cddcdfc4fd1ac5b577c89\transformed\emoji2-1.4.0\res
+com.fadhil.mobile_kotlin.test.app-activity-compose-1.8.2-29 C:\Users\User\.gradle\caches\transforms-3\f784e701c263bd45973b1e7ff36c4d92\transformed\activity-compose-1.8.2\res
+com.fadhil.mobile_kotlin.test.app-savedstate-ktx-1.2.1-30 C:\Users\User\.gradle\caches\transforms-3\fc797c232a6222823daa1cf827072829\transformed\savedstate-ktx-1.2.1\res
+com.fadhil.mobile_kotlin.test.app-androidTest-31 D:\Mobile,Android Kotlin\Mobile-Kotlin\app\build\generated\res\resValues\androidTest\debug
+com.fadhil.mobile_kotlin.test.app-mergeDebugAndroidTestResources-32 D:\Mobile,Android Kotlin\Mobile-Kotlin\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.fadhil.mobile_kotlin.test.app-mergeDebugAndroidTestResources-33 D:\Mobile,Android Kotlin\Mobile-Kotlin\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.fadhil.mobile_kotlin.test.app-merged_res-34 D:\Mobile,Android Kotlin\Mobile-Kotlin\app\build\intermediates\merged_res\debugAndroidTest
